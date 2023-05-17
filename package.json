@@ -1,0 +1,23 @@
+{
+  "name": "restful-crud-api",
+  "version": "1.0.0",
+  "description": "A simple RESTful CRUD API built with Node.js, Express.js, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinch-runner/restful-crud-api.git"
+  },
+  "author": "Aaron Sang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinch-runner/restful-crud-api/issues"
+  },
+  "homepage": "https://github.com/cinch-runner/restful-crud-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
